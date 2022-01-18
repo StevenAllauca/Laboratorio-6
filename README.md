@@ -48,23 +48,98 @@ Objetivos Específicos:
 
 3.2.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.Anotar los resultados medidos.
 
-Resistencia de 220 Ω
+Resistencia de 220Ω
+
+![image](https://user-images.githubusercontent.com/94026628/149962967-9c690250-f81e-4a61-998b-dddcf62015d3.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149963063-4a1c2f7a-ee69-4172-9d15-eb9559f63748.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149964698-9eca47d3-a756-4da4-ac5c-03c96bf872e2.png)
+
+
 
 Resistencia de 470 Ω
 
+![image](https://user-images.githubusercontent.com/94026628/149964330-b81447fe-23fa-4cfc-b0e3-19e5f29380b6.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149964424-a8227aa0-0b74-410a-ab15-f3616f1712eb.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149964516-80562bdf-8bc4-462e-a11d-beff385c4c43.png)
+
+
+
 Resistencia de 680 Ω
+
+![image](https://user-images.githubusercontent.com/94026628/149964997-56f3a009-99b0-475d-807e-411c1d7702fb.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149965059-96c902f5-e7af-40ef-906d-23dfa9034984.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149965078-71a0c09a-0bfd-469b-8daa-dbbd39aa0705.png)
+
 
 Resistencia de 820 Ω
 
+![image](https://user-images.githubusercontent.com/94026628/149965160-c03913d7-8f80-44f3-a367-cc0d33ad6620.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149965211-6400e036-aef5-4412-9b69-32f45c6d938d.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149965233-1ee4d058-96b1-4adc-ab01-3a363f5e4e47.png)
+
+
 Resistencia de 1 kΩ
+
+![image](https://user-images.githubusercontent.com/94026628/149965834-4cd57175-e65c-45d3-b48d-16c5cef8e807.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149965879-374360a7-e34b-463a-9229-8f52329b16ec.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149965912-3149c8e6-3940-471c-9036-9a4d2ea03597.png)
+
 
 Resistencia de 1,5 kΩ
 
+
+![image](https://user-images.githubusercontent.com/94026628/149965972-df9e2a10-6898-4c56-9d16-58cdf5203d2f.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149966010-f414c80f-cfe9-4e6f-89d3-0244196cf792.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149966038-2ac1102b-d24b-45a1-9ec8-7c99043e9b60.png)
+
+
 Resistencia de 1,8 kΩ
+
+
+![image](https://user-images.githubusercontent.com/94026628/149966360-8e35bbe8-93f7-4ff9-8e2e-4c8697b08d32.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149966399-49b6d5cb-c555-4258-b3f3-3e42673a3c4f.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149966429-4e34577e-b854-4488-b143-a0ef8e7fbc05.png)
+
 
 Resistencia de 2,2 kΩ
 
+![image](https://user-images.githubusercontent.com/94026628/149966485-6febd662-0aa3-49ba-b75a-91e053ed1c8b.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149967172-b4bcb01a-e6e8-4dcb-9525-f67232e3ed0b.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149967195-2e3490de-5e6b-40e9-8c0b-726acb623dba.png)
+
+Resistencia 3.9   KΩ
+
+![image](https://user-images.githubusercontent.com/94026628/149968096-46c5afd9-3187-4a16-b99a-21d059ea8cc3.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149968122-c5905a10-8a20-4c8c-b5f3-fdd444227034.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149968145-96d40f1b-68af-47bf-80bf-b53cff98de14.png)
+
+
 Resistencia de 4,7 kΩ
+
+![image](https://user-images.githubusercontent.com/94026628/149970378-26eaa898-a656-4f90-8ea8-36052a2600c4.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149970446-4a24699c-5f38-4a68-8d66-c381bc7cb2d6.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149970463-5a8c36da-9aa4-4f8a-995b-9200eb91d49b.png)
+
 
 3.2.3 Calcular la potencia consumida por RL, para cada valor dado y anotar los resultados en la tabla 6.1.
 
@@ -87,6 +162,7 @@ Resistencia de 4,7 kΩ
 ![image](https://user-images.githubusercontent.com/94026628/149866410-bda907c8-8f8e-4725-b868-35f379ac647d.png)
 
 ![image](https://user-images.githubusercontent.com/94026628/149866423-e63a2f44-1527-41f0-bb04-f0aecd69982c.png)
+
 
 Cuadro 6.1. Parámetros eléctricos del circuito de la figura 6.1.
 
