@@ -180,7 +180,7 @@ En el circuito dado si se cumplió el Teorema de la máxima transferencia de pot
 
 1000 Ω
 
-5. VÍDEO
+5. VÍDEO https://youtu.be/V2PnTsn7fOU
 
 6.CONCLUSIONES
 
